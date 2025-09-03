@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TeamSpace - Real-time Team Collaboration Platform
 
 A modern, real-time team collaboration platform built with React, TypeScript, and Supabase. Features include task management, team discussions, resource sharing, progress tracking, and more.
@@ -221,3 +222,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Made with ❤️ for better team collaboration**
+=======
+# Smart_Attendance
+>>>>>>> c31157ef2e9a11650ad81c3832d80a1e7b956df2
